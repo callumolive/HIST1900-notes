@@ -1,11 +1,6 @@
-# Obsidian Notes
+Semester Notes and Takeaways
 
-Publish your public notes with MkDocs
+This is where I, Callum Oliver, will be displaying my unique notes and observations from HIST1900, taught by Shawn Graham.
 
-## Hello World!
+This website will be updated periodically throughout the semester, feauturing new and updated notes of different kinds. Throughout the different atomic, source, and idea notes, they will all also often be connected to each other through Obsidian, connecting ideas through notes, as well as towards the course as a whole.
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
