@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: HIST 1900 Notes
 
 theme:
     name: 'material'
