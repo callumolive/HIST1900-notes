@@ -1,6 +1,9 @@
 site_name: HIST 1900 Notes
 
 theme:
+  font: 
+    text: Lora
+
     name: 'material'
     
     palette:
