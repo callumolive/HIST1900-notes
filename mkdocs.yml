@@ -5,6 +5,9 @@ theme:
       text: Georgia
     name: 'material'
     
+    feautres:
+        - navigation.tabs
+    
     palette:
 
     # Light mode
