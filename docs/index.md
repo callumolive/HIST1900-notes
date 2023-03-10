@@ -1,7 +1,14 @@
-### Introduction
+# Introduction
 
-This website will serve as a hub for my course notes on both lecture and reading material, alongside tertiary themes or topics being expanded upon!
+### Hello World
 
+This website will be my note taking on the course _History Of The Internet,_ in semester 2 here at Carleton University. This website will be periodically updated with new atomic and source notes, sources, and various other possible connections I may or may not make, (You'll have to come back later to see what happens...)
+
+Below are links giving you a way into my various types of notes, but an even better place to start is the [index](https://github.com/callumolive/HIST1900-notes/blob/main/docs/A.%20Index.md)
+
+Hopefully you leave with a new perspective or some new information, the goal here is always to learn!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Atomic Notes
@@ -9,10 +16,14 @@ This website will serve as a hub for my course notes on both lecture and reading
 Atomic Notes will cover ideas being proposed with relations to outside sources, readings, and lecture material
 They can be found in the menu, but a good start is [here](https://callumolive.github.io/HIST1900-notes/Atomic%20Notes/Codes%20and%20Ciphers/)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Source Notes
 
 Source Notes will serve as a summary of various articles and sources
 They can also all be found in the menu, but another start could be [here](https://callumolive.github.io/HIST1900-notes/Source%20Notes/Blade%20Runner%20and%20Cyberpunk%20Visions%20of%20Humanity/)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Sources
 
