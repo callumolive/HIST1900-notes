@@ -2,7 +2,7 @@
 
 ### [Hello World](https://youtu.be/fJ_nXc6D1wE)
 
-This website will be my note taking on the course _History Of The Internet,_ in semester 2 here at Carleton University. This website will be periodically updated with new atomic and source notes, sources, and various other possible connections I may or may not make, (You'll have to come back later to see what happens...)
+This website will be my note taking on the course _History Of The Internet,_ in semester 2 here at Carleton University. This website will be periodically updated with new atomic and source notes, sources, and various other possible connections I may or may not make, (You'll have to come back later to see what happens...). The notes you'll find here are primarily based on lateral or tertiary ideas and concepts from class. These ideas are then expanded more to create connections that may not have arisen otherwise. 
 
 Below are links giving you a way into my various types of notes, but an even better place to start is the [index](https://callumolive.github.io/HIST1900-notes/A.%20Index/)
 Hopefully you leave with a new perspective or some new information, the goal here is always to learn!
