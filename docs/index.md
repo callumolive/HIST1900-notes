@@ -31,3 +31,10 @@ They can also all be found in the menu, but another start could be [here](https:
 I'd like to think this one is self-explanatory
 
 Sources can be accessed in the menu or as links inside of source notes. just for fun, here's [one](https://callumolive.github.io/HIST1900-notes/Sources/kingSecretsCiphers2020/)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+For one more treat alongside that [index](https://callumolive.github.io/HIST1900-notes/A.%20Index/), this web shows all the linkages between my notes, sources, and everything in between. 
+
+![image](https://user-images.githubusercontent.com/122491619/224448247-e7d4847d-b671-4d25-9942-a7bbd565420b.png)
+
