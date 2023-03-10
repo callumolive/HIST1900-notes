@@ -38,3 +38,7 @@ For one more treat alongside that [index](https://callumolive.github.io/HIST1900
 
 ![image](https://user-images.githubusercontent.com/122491619/224448247-e7d4847d-b671-4d25-9942-a7bbd565420b.png)
 
+![image](https://user-images.githubusercontent.com/122491619/224448891-3211e034-2bba-45a6-8b30-0c18334faf94.png)
+
+(the first image works if you are using dark mode, the second works with light)
+
