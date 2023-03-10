@@ -1,6 +1,6 @@
 # Introduction
 
-### Hello World
+### [Hello World](https://youtu.be/fJ_nXc6D1wE)
 
 This website will be my note taking on the course _History Of The Internet,_ in semester 2 here at Carleton University. This website will be periodically updated with new atomic and source notes, sources, and various other possible connections I may or may not make, (You'll have to come back later to see what happens...)
 
