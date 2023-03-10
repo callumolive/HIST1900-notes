@@ -4,8 +4,7 @@
 
 This website will be my note taking on the course _History Of The Internet,_ in semester 2 here at Carleton University. This website will be periodically updated with new atomic and source notes, sources, and various other possible connections I may or may not make, (You'll have to come back later to see what happens...)
 
-Below are links giving you a way into my various types of notes, but an even better place to start is the [index](https://github.com/callumolive/HIST1900-notes/blob/main/docs/A.%20Index.md)
-
+Below are links giving you a way into my various types of notes, but an even better place to start is the [index](https://callumolive.github.io/HIST1900-notes/A.%20Index/)
 Hopefully you leave with a new perspective or some new information, the goal here is always to learn!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
