@@ -15,4 +15,4 @@ Similar to how the policymakers failed to keep up with the internet, there is no
 
 It is up to the government to help secure and take the internet back from those using it maliciously. If they fail to succeed or decide not to try, it could lead to something of the future presented in [[Blade Runner and Cyberpunk Visions of Humanity]].
 
-More on this topic can be found here: https://erichobson.com/memex/note/are-social-media-companies-doing-enough
+More on this topic can be found [here](https://erichobson.com/memex/note/are-social-media-companies-doing-enough), where Eric brings up valid concerns around the refusal of certain social media companies to intervene and protect their users unless things become catastrophic, or it directly benefits the company. check it out.
