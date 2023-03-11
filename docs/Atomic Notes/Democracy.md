@@ -8,4 +8,4 @@ Despite the amount of bad things that can happen on or with the Internet, some o
 
 Confidence and freedom in expressing onself online in important, and is one of the wonders of the Internet as a whole. 
 
-Some more on Democracy and censorship can be found here: https://maxthebeast300.github.io/Hist1900memex/Control_and_censorship, Max's page here includes some information about the importance of politics as a whole on the internet, check back here later on and I'm sure you'll find even more information about this topic
+Some more on Democracy and censorship can be found [here](https://maxthebeast300.github.io/Hist1900memex/Control_and_censorship), Max's page here includes some information about the importance of politics as a whole on the internet, check back here later on and I'm sure you'll find even more information about this topic
