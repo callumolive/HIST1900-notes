@@ -10,4 +10,4 @@ The reading [[sterlingLuigiFedericoMenabrea]], also relates to this, as the pape
 
 Social movements around feminism have become more and more prevelant in the modern day, likely related to [[Social Change and The Internet]]. With women being able to freely express themselves and build their own communities online, the discrimination they endure may be alleviated with the capability to tell their stories and be aroud like minded people. With the accountability the internet brings forth, it deters discrimination of all sorts, as it will have a real lasting effect on the aggressor. 
 
-Another example of the mistreatment of women in the industry could be found in Grace Hopper, her story being dug deeper into here: https://themike92.github.io/memex-HIST1900/Thoughts/Computational%20Devices/Grace%20Hopper/
+Another example of the mistreatment of women in the industry could be found in Grace Hopper, her story being dug deeper into [here](https://themike92.github.io/memex-HIST1900/Thoughts/Computational%20Devices/Grace%20Hopper/)
