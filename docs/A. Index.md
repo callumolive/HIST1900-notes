@@ -1,26 +1,35 @@
-
 Source Notes
 [[Blade Runner and Cyberpunk Visions of Humanity]]
 [[Fax Machine]]
 [[Forging Partnerships, Schools, School Libraries, and Communities]]
+[[How Modern Terrorism Uses the Internet]]
 [[Radio + the mass medium message]]
+[[Scientific American - Nosey Search Engines]]
 [[Scientific American - Telegraph Invention]]
 [[Secrets & Ciphers]]
 [[The Contigent Internet]]
 [[The End of Techno-Utopianism]]
 [[The Enigma Cipher Machine]]
+[[The Four Facebooks]]
+[[The Google and Facebook Online Advertising Duopoly]]
+[[Truth in Digital Advertising]]
 [[TV, Cell Phones and Social Justice - A Historical Analysis Of How Video Creates Social Change]]
 
 Atomic Notes
 [[Codes and Ciphers]]
 [[Communication Technology]]
 [[Community]]
+[[Corporate Convergance and Monopolization]]
 [[Cybersecurity and Opinions]]
 [[Democracy]]
 [[Gender and Connection]]
+[[Journalism and Integrity]]
 [[Messages and Propaganda]]
+[[Platforming and Enabling]]
 [[Send and Recieve]]
 [[Social Change and The Internet]]
+[[The Future of The Internet]]
+[[Transparency and Native Advertising]]
 
 Sources
 [[batemanENIGMACIPHERMachine1983]]
@@ -36,6 +45,11 @@ Sources
 [[shisanFaxMachine2003]]
 [[sterlingLuigiFedericoMenabrea]]
 [[TelegraphInvention1849]]
+[[pogueTruthDigitalAdvertising2015]]
+[[fuchsGoogleFacebookOnline2018]]
+[[gertzFourFacebooks2019]]
+[[riceNoseySearchEngines2005]]
+[[weimannWwwTerrorNet2004]]
 
 
 
